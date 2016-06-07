@@ -1,0 +1,22 @@
+.NAVBAR {
+  background-color: gray;
+  font-size: 20px;
+  margin: 20px;
+  height: 28px;
+}
+.logo {
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  border: 1px solid white;
+  margin: 5px 7px 5px 7px
+}
+.IN {
+  font-weight: bold;
+}
+.break {
+  color: white;
+}
+.Log {
+  margin-left: 40%;
+  }
